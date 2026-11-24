@@ -1,0 +1,8 @@
+{
+  "appId": "com.shoaibstar.theftsimulator3d",
+  "appName": "Shoaib Theft Simulator 3D",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#0B0D10"
+  }
+}

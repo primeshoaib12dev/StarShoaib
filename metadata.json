@@ -1,0 +1,6 @@
+{
+  "name": "ShoaibStar",
+  "description": "ShoaibStar mobile-ready dashboard with an animated Rockstar-inspired logo splash screen, homepage loading sequence, and interactive command hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
